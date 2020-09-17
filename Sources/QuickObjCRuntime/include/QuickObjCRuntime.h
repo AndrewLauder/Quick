@@ -1,0 +1,1 @@
+#import <QuickSpecBase.h>
